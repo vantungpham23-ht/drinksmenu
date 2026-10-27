@@ -1,0 +1,27 @@
+:root {
+  /* Core palette */
+  --ink: #171912;
+  --olive: #25291b;
+  --khaki: #373c27;
+  --cream: #f5f0df;
+  --yellow: #e9dc87;
+  --sage: #a5a88b;
+
+  /* Derived surfaces */
+  --cream-08: rgba(245, 240, 223, 0.08);
+  --cream-12: rgba(245, 240, 223, 0.12);
+  --cream-16: rgba(245, 240, 223, 0.16);
+  --cream-55: rgba(245, 240, 223, 0.55);
+  --cream-70: rgba(245, 240, 223, 0.7);
+
+  --font-display: "Anton", "Arial Narrow", Impact, sans-serif;
+  --font-body: "Be Vietnam Pro", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Space Mono", ui-monospace, "SFMono-Regular", monospace;
+
+  --nav-h: 58px;
+  --gutter: 20px;
+  --shell-max: 1240px;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-soft: cubic-bezier(0.4, 0, 0.2, 1);
+}
